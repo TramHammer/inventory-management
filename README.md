@@ -1,5 +1,6 @@
 # inventory-management
 Java Programming I Final Project
+
 You have been hired to build a program for tracking the inventory within a stockroom warehouse.
 The application must
 • Store information to a file
